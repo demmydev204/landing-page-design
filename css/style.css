@@ -472,7 +472,7 @@ a {
   /* Contact Section */
   #contact .contact-info {
     text-align: center;
-    margin-top: -500px;
+    margin-top: -300px;
     margin-bottom: 50px;
   }
   #contact .contact-info p {
@@ -491,7 +491,7 @@ a {
     display: flex;
     justify-content: space-evenly;
     align-items: flex-start;
-    margin-top: -300px;
+    margin-top: -200px;
   }
 
   #footer .brand img {
@@ -507,7 +507,7 @@ a {
   }
   #footer .nav h2 {
     font-weight: 500;
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: var(--GRAY-500);
     line-height: 1.5;
     text-align: left;
